@@ -3,5 +3,5 @@
 ### TypeScript tutorials:
 https://www.typescriptlang.org/
 
-### Practice only (typescript playground)
+### Practice typescript online (typescript playground):
 https://www.typescriptlang.org/play
